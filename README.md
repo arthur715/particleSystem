@@ -1,2 +1,2 @@
 # particleSystem
-![Farmers Market Finder Demo](demo.gif)
+![Particle Fountain Demo](demo.gif)
